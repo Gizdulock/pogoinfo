@@ -40,4 +40,47 @@
             ]
         }
     }
-}
+},
+{
+    "name": "TEST EVENT",
+    "start": 2021-02-16 18:00,
+    "end": "2021-02-20 20:00",
+    "details": {
+        "bonuses": [
+            "Egg hatch distance is halved",
+            "This week's free bonus box includes a Rocket Radar to get you started with the bosses",
+            "More Team GO Rocket invasions (balloons every two hours)"
+        ],
+        "eggs": [],
+        "spawns": [
+            "042_00",
+            "109_00",
+            "168_00",
+            "211_00",
+            "215_00",
+            "228_00",
+            "274_00",
+            "434_00",
+            "451_00",
+            "543_00",
+            "559_00",
+            "088_00"
+        ],
+        "raids": [],
+        "quests": {
+            "Catch 7 Poison-type Pokemon": [
+                "207_00"
+            ],
+            "Purify 3 Shadow Pokemon": [
+                "200_00"
+            ],
+            "Defeat 2 Team GO Rocket Grunts": [
+                "032_00",
+                "032_00"
+            ],
+            "Catch 15 Dark-type Pokemon": [
+                "197_00"
+            ]
+        }
+    }
+} 
