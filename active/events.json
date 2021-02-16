@@ -397,7 +397,7 @@
     },
     {
         "name": "test event",
-        "type": "Pokémon Spotlight Hour",
+        "type": "Event",
         "start": "2021-02-16 18:00",
         "end": "2021-02-19 19:00",
         "spawns": [],
